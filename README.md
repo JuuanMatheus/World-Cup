@@ -1,6 +1,6 @@
 # World-Cup
 
-![GitHub](https://img.shields.io/github/license/JuuanMatheus/NLW-6)
+![GitHub](https://img.shields.io/github/license/JuuanMatheus/World-Cup)
 
 ## :test_tube: Sobre o Projeto
 
