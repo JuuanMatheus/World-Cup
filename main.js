@@ -28,7 +28,7 @@ document.querySelector("#cards").innerHTML =
     "21/11",
 <<<<<<< HEAD
     "segunda",
-    createGame("england", "10:00", "Iran") +
+    createGame("england", "10:00", "iran") +
 =======
     "Segunda",
     createGame("england", "10:00", "iran") +
